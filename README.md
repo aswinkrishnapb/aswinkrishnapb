@@ -6,13 +6,13 @@
 
 ## <strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ|
 
-- 👋 I’m <strike>not a robot</strike> a human, Lol...!
-- 👀 I’m interested in Hacking and Coding...
-- 🌱 I’m currently learning CEH.
-- 💞️ I’m looking to collaborate on my social media 
+- 🙋🏻‍♂️ I’m <strike>not a robot</strike> a human, Lol...! 🤣
+- 💯 I’m interested in Hacking and Coding. 😜
+- 🧑🏻‍💻 I’m currently learning CEH. 😌
+- 💬 I’m looking to collaborate on aswinkrishnapb4u@gmail.com 😬
 
 
-## Skills
+## 💻 Skills
 
 <p>•ᴩᴇɴᴛᴇꜱᴛɪɴɢ : ᴡᴇʙ, ᴀᴩɪ & ɴ/ᴡ                                       </p>
 <p>•ᴄᴏᴅɪɴɢ : ᴩyᴛʜᴏɴ, ꜱʜᴇʟʟ ꜱᴄʀɪᴩᴛ, ᴄ, ᴄ++, ᴩʜᴩ, ᴊᴀᴠᴀꜱᴄʀɪᴩᴛ, ʜᴛᴍʟ & ᴄꜱꜱ  </p>
@@ -24,8 +24,8 @@
  
  
 <!---
-## Tools & Software
-Hacking :
+## ⚔️ Tools & Software
+🔐 Hacking :
 
 </br>
 <img align="left" alt="Nmap" width="26px" src="" />
@@ -36,7 +36,7 @@ Hacking :
 <img align="left" alt="Metasploit" width="26px" src="" />
 </br>
 
-Coding :
+📝 Coding :
 </br>
 <img align="left" alt="python" width="26px" src="" />
 <img align="left" alt="shellscript" width="26px" src="" />
@@ -84,7 +84,7 @@ Coding :
 ## ❤ Views and Followers
 <a href="https://github.com/aswinkrishnapb4u"><img src="https://komarev.com/ghpvc/?username=aswinkrishnapb4u"></a>
 
-<a href="https://github.com/aswinkrishnapb4u?tab=followers"><img src="https://img.shields.io/github/followers/aswinkrishnapb4u?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/aswinkrishnapb?tab=followers"><img src="https://img.shields.io/github/followers/aswinkrishnapb4u?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <!---END--->
