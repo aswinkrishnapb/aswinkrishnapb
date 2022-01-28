@@ -74,6 +74,10 @@
 
 <a href = "https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/aswinkrishnapb?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://t.me/mr00100x"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+
+
 
 <!---SOCIAL
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
