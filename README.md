@@ -72,7 +72,7 @@
 ## 📫 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/linkedin.png" width="50%" hight="50%"/></a>
+<a href = "https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/linkedin.png" width="30px" hight="50%"/></a>
 <a href = "https://twitter.com/aswinkrishnapb?s=09"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/twitter.png"/></a>
 <a href = "https://t.me/mr00100x"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/telegram.png"/></a>
 
