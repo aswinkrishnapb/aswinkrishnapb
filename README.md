@@ -8,12 +8,12 @@
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/cover.jpg" height="175px"/></a>
 
-<center>
-🙋🏻‍♂️ ɪ’ᴍ <strike>ɴᴏᴛ ᴀ ʀᴏʙᴏᴛ</strike> ᴀ ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣
-💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜
-🧑🏻‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌
-💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-connect-with-me">ʜᴇʀᴇ</a> 😬
-</center>
+<ul>
+<li> 🙋🏻‍♂️ ɪ’ᴍ <strike>ɴᴏᴛ ᴀ ʀᴏʙᴏᴛ</strike> ᴀ ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣 </li>
+<li> 💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜 </li>
+<li> 🧑🏻‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌 </li>
+<li> 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-connect-with-me">ʜᴇʀᴇ</a> 😬 </li>
+</ul>
  
 ## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
 🔐 <b>ʜᴀᴄᴋɪɴɢ :</b>
