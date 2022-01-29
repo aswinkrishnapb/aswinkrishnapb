@@ -41,20 +41,19 @@
 
 <!---
 
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="shellscript" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="shellscript" width="40px" />
 
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="javascript" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="javascript" width="40px" />
  
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="C" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="C" width="40px" />
 
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="C++" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="C++" width="40px" />
  
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="html" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="html" width="40px" />
 
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="CSS" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="CSS" width="40px" />
 
 --->
-
 
 <!---GITHUB STATUS--->
 # 📊 My Github Stats
@@ -64,9 +63,8 @@
 <a href="https://github.com/aswinkrishnapb4u/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb4u&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!---<a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Top skills" src="&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>--->
 <b>Note:</b> This is just created for a fun...!
-
+ 
 </center>
-
 
 <!---SOCIAL MEDIA--->
 ## 📫 Connect with me:
