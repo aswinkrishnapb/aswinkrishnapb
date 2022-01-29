@@ -12,22 +12,9 @@
 - 🧑🏻‍💻 I’m currently learning CEH. 😌
 - 💬 I’m looking to collaborate on <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-connect-with-me">here</a> 😬
 
-
-<!---
-## 💻 Skills
-
-<p>•ᴩᴇɴᴛᴇꜱᴛɪɴɢ : ᴡᴇʙ, ᴀᴩɪ & ɴ/ᴡ                                       </p>
-<p>•ᴄᴏᴅɪɴɢ : ᴩyᴛʜᴏɴ, ꜱʜᴇʟʟ ꜱᴄʀɪᴩᴛ, ᴄ, ᴄ++, ᴩʜᴩ, ᴊᴀᴠᴀꜱᴄʀɪᴩᴛ, ʜᴛᴍʟ & ᴄꜱꜱ  </p>
-<!---<p>•ꜱɪᴇᴍ : ꜱʟᴜɴᴋ                                                      </p>
-<!---<p>•ɴᴇᴛᴡᴏʀᴋɪɴɢ : ᴏꜱɪ ᴍᴏᴅᴇʟ & ᴛᴄᴩ/ɪᴩ ᴍᴏᴅᴇʟ                             </p>
-<p>•ᴏꜱ : ʟɪɴᴜx, ᴜɴɪx & ᴡɪɴᴅᴏᴡ                                        </p>
-<!---<p>•ᴅᴀᴛᴀʙᴀꜱᴇ : ᴍyꜱQʟ & ᴍᴀʀɪᴀᴅʙ                                        </p>
-<!---<p>•ᴄʟᴏᴜᴅ : ɢᴄᴩ                                                       </p>
---->
-
  
-## ⚔️ Tools & Software
-🔐 Hacking :
+## ⚔️ Tools | Technology | Software
+🔐 HACKING :
 <p align="left">
   
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="40px" />
@@ -42,20 +29,30 @@
 
 </p>
 
-📝 Coding :
-
+📝 CODING :
+<p align="left">
+ 
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="Python" width="40px" />
+
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="PHP" width="40px" />
+
+</p>
 
 
 <!---
-<img align="left" alt="shellscript" width="26px" src="" />
-<img align="left" alt="php" width="26px" src="" />
-<img align="left" alt="javascript" width="26px" src="" />
-<img align="left" alt="c" width="26px" src="" />
-<img align="left" alt="c++" width="26px" src="" />
-<img align="left" alt="html" width="26px" src="" />
-<img align="left" alt="scc" width="26px" src="" />
-</br>
+
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="shellscript" width="40px" />
+
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="javascript" width="40px" />
+ 
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="C" width="40px" />
+
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="C++" width="40px" />
+ 
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="html" width="40px" />
+
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="CSS" width="40px" />
+
 --->
 
 
