@@ -8,13 +8,12 @@
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/cover.jpg" height="175px"/></a>
 
-<p align="center">
+<center>
 🙋🏻‍♂️ ɪ’ᴍ <strike>ɴᴏᴛ ᴀ ʀᴏʙᴏᴛ</strike> ᴀ ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣
 💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜
 🧑🏻‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌
 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-connect-with-me">ʜᴇʀᴇ</a> 😬
-</p>
-
+</center>
  
 ## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
 🔐 <b>ʜᴀᴄᴋɪɴɢ :</b>
@@ -31,7 +30,6 @@
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="Python" width="40px" />
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="PHP" width="40px" />
 </p>
-
 
 <!---
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="shellscript" width="40px" />
