@@ -61,8 +61,10 @@
 
 <!---GITHUB'S VIEWS AND FOLLOWERS--->
 
-## 👁️‍🗨️ ᴠɪᴇᴡꜱ & 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ
+## 👁️‍🗨️ ᴠɪᴇᴡꜱ
 <a href="https://github.com/aswinkrishnapb4u"><img src="https://komarev.com/ghpvc/?username=aswinkrishnapb4u"></a>
+
+## 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ
 <a href="https://github.com/aswinkrishnapb?tab=followers"><img src="https://img.shields.io/github/followers/aswinkrishnapb4u?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---END--->
