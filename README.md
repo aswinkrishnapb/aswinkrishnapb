@@ -39,9 +39,11 @@
 <img align="left" alt="Metasploit" width="26px" src="" />
 </br>
 
+--->
 📝 Coding :
 </br>
-<img align="left" alt="python" width="26px" src="" />
+<img align="left" alt="python" width="26px" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" />
+<!---
 <img align="left" alt="shellscript" width="26px" src="" />
 <img align="left" alt="php" width="26px" src="" />
 <img align="left" alt="javascript" width="26px" src="" />
