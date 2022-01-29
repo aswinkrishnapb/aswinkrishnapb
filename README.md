@@ -8,14 +8,14 @@
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/cover.jpg" height="175px"/></a>
 
-- 🙋🏻‍♂️ I’m <strike>not a robot</strike> a human, Lol...! 🤣
-- 💯 I’m interested in Hacking and Coding. 😜
-- 🧑🏻‍💻 I’m currently learning CEH. 😌
-- 💬 I’m looking to collaborate on <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-connect-with-me">here</a> 😬
+- 🙋🏻‍♂️ ɪ’ᴍ <strike>ɴᴏᴛ ᴀ ʀᴏʙᴏᴛ</strike> ᴀ ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣
+- 💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜
+- 🧑🏻‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌
+- 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-connect-with-me">ʜᴇʀᴇ</a> 😬
 
  
-## ⚔️ Tools | Technology | Software
-### 🔐 HACKING :
+## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
+🔐 ʜᴀᴄᴋɪɴɢ :
 <p align="left">
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="40px" />
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/nmap.svg" alt="Nmap" width="40px" />
@@ -24,7 +24,7 @@
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/zaproxy.svg" alt="OWASP ZAP" width="40px" />
 </p>
 
-### 📝 CODING :
+📝 ᴄᴏᴅɪɴɢ :
 <p align="left">
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="Python" width="40px" />
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="PHP" width="40px" />
@@ -42,7 +42,7 @@
 
 <!---GITHUB STATUS--->
 
-## 📊 My Github Stats
+## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ 
 <center>
 <a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb4u&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/aswinkrishnapb4u/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb4u&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -52,7 +52,7 @@
 
 <!---SOCIAL MEDIA--->
 
-## 🫂 Connect with me:
+## 🫂 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 <p align="left">
 <a href="https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/linkedin.svg" width="40px" /></a>
 <a href="https://twitter.com/aswinkrishnapb?s=09"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/twitter.svg" width="40px" /></a>
@@ -61,7 +61,7 @@
 
 <!---GITHUB'S VIEWS AND FOLLOWERS--->
 
-## 👁️‍🗨️ Views & 👣 Followers
+## 👁️‍🗨️ ᴠɪᴇᴡꜱ & 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ
 <a href="https://github.com/aswinkrishnapb4u"><img src="https://komarev.com/ghpvc/?username=aswinkrishnapb4u"></a>
 <a href="https://github.com/aswinkrishnapb?tab=followers"><img src="https://img.shields.io/github/followers/aswinkrishnapb4u?label=Followers&style=social" alt="GitHub Badge"></a>
 
