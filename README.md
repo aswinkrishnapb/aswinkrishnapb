@@ -8,7 +8,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/cover.jpg" height="175px"/></a>
 
-<ul>
+<ul style="list-style-type:square">
 <li> 🙋🏻‍♂️ ɪ’ᴍ <strike>ɴᴏᴛ ᴀ ʀᴏʙᴏᴛ</strike> ᴀ ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣 </li>
 <li> 💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜 </li>
 <li> 🧑🏻‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌 </li>
@@ -44,9 +44,9 @@
 
 ## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ 
 <center>
-<a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb4u&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/aswinkrishnapb4u/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb4u&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=00FF00&hide_border=true" /></a>
-<!---<a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Top skills" src="&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>--->
+<a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb4u&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+<a href="https://github.com/aswinkrishnapb4u/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb4u&bg_color=000000&color=00ffff&line=00ffff&point=00FF00&hide_border=true" /></a>
+<!---<a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Top skills" src="&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>--->
 <b>NOTE:</b> ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!
 </center>
 
