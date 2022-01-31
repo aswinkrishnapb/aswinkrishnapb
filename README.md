@@ -46,9 +46,16 @@
 <p align="center">
 <a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb4u&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
 <a href="https://github.com/aswinkrishnapb4u/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb4u&bg_color=000000&color=00ffff&line=00ffff&point=00FF00&hide_border=true" /></a>
-<!---<a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Top skills" src="&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>--->
-<b>NOTE:</b> ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!
 </p>
+<p align="center">
+<a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/stargazers"><img src="https://img.shields.io/github/stars/aswinkrishnapb4u/aswinkrishnapb4u" alt="Stars Badge"/></a>
+<a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/network/members"><img src="https://img.shields.io/github/forks/aswinkrishnapb4u/aswinkrishnapb4u" alt="Forks Badge"/></a>
+<a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/pulls"><img src="https://img.shields.io/github/issues-pr/aswinkrishnapb4u/aswinkrishnapb4u" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/issues"><img src="https://img.shields.io/github/issues/aswinkrishnapb4u/aswinkrishnapb4u" alt="Issues Badge"/></a>
+<a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aswinkrishnapb4u/aswinkrishnapb4u?color=2b9348"></a>
+<a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/master/LICENSE"><img src="https://img.shields.io/github/license/aswinkrishnapb4u/aswinkrishnapb4u?color=2b9348" alt="License Badge"/></a> 
+</p>
+<b>NOTE:</b> ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!
 
 <!---SOCIAL MEDIA--->
 
