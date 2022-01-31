@@ -56,6 +56,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/linkedin.svg" width="40px" /></a>
 <a href="https://twitter.com/aswinkrishnapb?s=09"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/twitter.svg" width="40px" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aswinkrishnapb4u@gmail.com"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/gmail.svg" width="40px" /></a>
+</p> 
 <a href="https://t.me/mr00100x"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/telegram.svg" width="40px" /></a>
 </p>
 
