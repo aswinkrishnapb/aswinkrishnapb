@@ -43,12 +43,12 @@
 <!---GITHUB STATUS--->
 
 ## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ 
-<center>
+<p align="center">
 <a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb4u&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
 <a href="https://github.com/aswinkrishnapb4u/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb4u&bg_color=000000&color=00ffff&line=00ffff&point=00FF00&hide_border=true" /></a>
 <!---<a href="https://github.com/aswinkrishnapb4u/github-readme-stats"><img alt="Aswin's Top skills" src="&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>--->
 <b>NOTE:</b> ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!
-</center>
+</p>
 
 <!---SOCIAL MEDIA--->
 
