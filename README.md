@@ -12,7 +12,7 @@
 <li> 🙋🏻‍♂️ ɪ’ᴍ <strike>ɴᴏᴛ ᴀ ʀᴏʙᴏᴛ</strike> ᴀ ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣 </li>
 <li> 💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜 </li>
 <li> 🧑🏻‍💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌 </li>
-<li> 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-connect-with-me">ʜᴇʀᴇ</a> 😬 </li>
+<li> 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-%E1%B4%84%E1%B4%8F%C9%B4%C9%B4%E1%B4%87%E1%B4%84%E1%B4%9B-%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C-%E1%B4%8D%E1%B4%87">ʜᴇʀᴇ</a> 😬 </li>
 </ul>
  
 ## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
