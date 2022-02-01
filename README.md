@@ -29,16 +29,13 @@
 <p align="left">
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/python.svg" alt="Python" width="40px" />
 <img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/php.svg" alt="PHP" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/shellscript.svg" alt="shellscript" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/javascript.svg" alt="javascript" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/c.svg" alt="C" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/cpp.svg" alt="C++" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/html.svg" alt="html" width="40px" />
+<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/css.svg" alt="CSS" width="40px" />
 </p>
-
-<!---
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="shellscript" width="40px" />
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="javascript" width="40px" />
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="C" width="40px" />
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="C++" width="40px" />
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="html" width="40px" />
-<img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/aaaaaaaaaaaa.svg" alt="CSS" width="40px" />
---->
 
 <!---GITHUB STATUS--->
 
