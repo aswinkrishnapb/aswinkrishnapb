@@ -9,7 +9,7 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/cover.jpg" height="175px"/></a>
 
 <p align="center">
-🙋🏻‍♂️ ɪ’ᴍ <strike>ɴᴏᴛ ᴀ ʀᴏʙᴏᴛ</strike> ᴀ ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣 <br>
+🙋🏻‍♂️ ɪ’ᴍ ᴀ <strike>ʀᴏʙᴏᴛ</strike> ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣 <br>
 💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜 <br>
 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌 <br>
 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u#-%E1%B4%84%E1%B4%8F%C9%B4%C9%B4%E1%B4%87%E1%B4%84%E1%B4%9B-%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C-%E1%B4%8D%E1%B4%87">ʜᴇʀᴇ</a> 😬 <br>
