@@ -6,7 +6,12 @@
 
 ## <strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ|
 
+<!---
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/cover.jpg" height="175px"/></a>
+--->
+
+<a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/technovalley.jpg" height="175px"/></a>
+
 
 <p align="center">
 🙋🏻‍♂️ ɪ’ᴍ ᴀ <strike>ʀᴏʙᴏᴛ</strike> ʜᴜᴍᴀɴ, ʟᴏʟ…! 🤣 <br>
