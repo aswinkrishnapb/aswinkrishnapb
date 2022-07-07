@@ -1,7 +1,9 @@
 
 <!---INTRODUCTION--->
 
-<h1 align="center"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/wave.gif" width="30px"> Hi, I'm Aswin Krishna P.B</h1> 
+#<h1 align="center"><img src="https://github.com/aswinkrishnapb4u/aswinkrishnapb4u/blob/main/resources/wave.gif" width="30px"> 
+
+ <h1> Hi, I'm Aswin Krishna P.B</h1> 
 <h3 align="center">ɪ'ᴍ ᴀ ᴩᴀꜱꜱɪᴏɴᴀᴛᴇ ᴄyʙᴇʀꜱᴇᴄᴜʀɪᴛy ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜰʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳</h3>
 
 ## <strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ|
