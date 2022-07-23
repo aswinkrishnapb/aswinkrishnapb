@@ -21,26 +21,28 @@
 </p>
  
 ## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
-🔐 <b>ʜᴀᴄᴋɪɴɢ :</b>
-<p align="left">
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/nmap.svg" alt="Nmap" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/metasploit.svg" alt="Metasploit" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/burp.svg" alt="Burp Suit" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/zaproxy.svg" alt="OWASP ZAP" width="40px" />
-</p>
 
-📝 <b>ᴄᴏᴅɪɴɢ :</b>
-<p align="left">
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/python.svg" alt="Python" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/php.svg" alt="PHP" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/shellscript.svg" alt="shellscript" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/javascript.svg" alt="javascript" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/c.svg" alt="C" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cpp.svg" alt="C++" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/html.svg" alt="html" width="40px" />
-<img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/css.svg" alt="CSS" width="40px" />
-</p>
+<table style="width:100%">
+  <tr>
+    <td>🔐ʜᴀᴄᴋɪɴɢ</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="40px" />		</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/nmap.svg" alt="Nmap" width="40px" />				</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/metasploit.svg" alt="Metasploit" width="40px" />	</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/burp.svg" alt="Burp Suit" width="40px" />		</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/zaproxy.svg" alt="OWASP ZAP" width="40px" />		</td>
+  </tr>
+  <tr>
+    <td>📝ᴄᴏᴅɪɴɢ :</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/python.svg" alt="Python" width="40px" />			</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/php.svg" alt="PHP" width="40px" />					</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/shellscript.svg" alt="shellscript" width="40px" />	</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/javascript.svg" alt="javascript" width="40px" />		</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/c.svg" alt="C" width="40px" />						</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cpp.svg" alt="C++" width="40px" />					</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/html.svg" alt="html" width="40px" />					</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/css.svg" alt="CSS" width="40px" />					</td>
+  </tr>
+</table>
 
 <!---GITHUB STATUS--->
 
