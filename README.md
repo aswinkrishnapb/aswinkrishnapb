@@ -21,22 +21,22 @@
 <table style="width:100%" border-style:hidden >
   <tr>
     <td>🔐ʜᴀᴄᴋɪɴɢ</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="30px" />		</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/nmap.svg" alt="Nmap" width="40px" />				</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/metasploit.svg" alt="Metasploit" width="40px" />	</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/burp.svg" alt="Burp Suit" width="40px" />		</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/zaproxy.svg" alt="OWASP ZAP" width="40px" />		</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="30px" />	   	</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/nmap.svg" alt="Nmap" width="30px" />         				</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/metasploit.svg" alt="Metasploit" width="30px" />	</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/burp.svg" alt="Burp Suit" width="30px" />		      </td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/zaproxy.svg" alt="OWASP ZAP" width="30px" />   		</td>
   </tr>
   <tr>
     <td>📝ᴄᴏᴅɪɴɢ :</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/python.svg" alt="Python" width="40px" />			</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/php.svg" alt="PHP" width="40px" />					</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/shellscript.svg" alt="shellscript" width="40px" />	</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/javascript.svg" alt="javascript" width="40px" />		</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/c.svg" alt="C" width="40px" />						</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cpp.svg" alt="C++" width="40px" />					</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/html.svg" alt="html" width="40px" />					</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/css.svg" alt="CSS" width="40px" />					</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/python.svg" alt="Python" width="30px" />		         	</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/php.svg" alt="PHP" width="30px" />			             		</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/shellscript.svg" alt="shellscript" width="30px" />	 </td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/javascript.svg" alt="javascript" width="30px" />	  	</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/c.svg" alt="C" width="30px" />						                </td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cpp.svg" alt="C++" width="30px" />					             </td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/html.svg" alt="html" width="30px" />					           </td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/css.svg" alt="CSS" width="30px" />				             	</td>
   </tr>
 </table>
 
@@ -61,10 +61,10 @@
 
 ## 🫂 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 <p align="left">
-<a href="https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/linkedin.svg" width="40px" /></a>
-<a href="https://twitter.com/aswinkrishnapb?s=09"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/twitter.svg" width="40px" /></a>
+<a href="https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/linkedin.svg" width="30px" /></a>
+<a href="https://twitter.com/aswinkrishnapb?s=09"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/twitter.svg" width="30px" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aswinkrishnapb@gmail.com"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/gmail.svg" width="40px" /></a>
-<a href="https://t.me/mr00100x"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/telegram.svg" width="40px" /></a>
+<a href="https://t.me/mr00100x"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/telegram.svg" width="30px" /></a>
 </p>
 
 <!---GITHUB'S VIEWS AND FOLLOWERS--->
