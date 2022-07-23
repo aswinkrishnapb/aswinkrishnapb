@@ -2,7 +2,7 @@
 
 <p align="center"><h1 align="center"> Hi, I'm Aswin Krishna P.B</h1> </p>
 <h3 align="center">ɪ'ᴍ ᴀ ᴩᴀꜱꜱɪᴏɴᴀᴛᴇ ᴄyʙᴇʀꜱᴇᴄᴜʀɪᴛy ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜰʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳</h3>
-<p align="center"><strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|<strike>🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ</strike></p>
+<h2 align="center"><strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|<strike>🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ</strike></h2>
 
 <!---
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cover.jpg" height="175px"/></a>
