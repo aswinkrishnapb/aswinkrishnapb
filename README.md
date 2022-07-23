@@ -1,22 +1,18 @@
-
 <!---INTRODUCTION--->
 
 <p align="center"><h1 align="center"> Hi, I'm Aswin Krishna P.B</h1> </p>
-## <strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|<strike>🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ</strike>
-
 <h3 align="center">ɪ'ᴍ ᴀ ᴩᴀꜱꜱɪᴏɴᴀᴛᴇ ᴄyʙᴇʀꜱᴇᴄᴜʀɪᴛy ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜰʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳</h3>
+<p align="center"><strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|<strike>🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ</strike></p>
 
 <!---
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cover.jpg" height="175px"/></a>
-
-
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/technovalley.jpeg" height="175px"/></a>
 --->
 
 <p align="center">
 🙋🏻‍♂️ ɪ’ᴍ ᴀ Passionated person in cybersecurity <br>
 💯 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ʜᴀᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏᴅɪɴɢ. 😜 <br>
-💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ ᴄᴇʜ. 😌 <br>
+💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟy ʟᴇᴀʀɴɪɴɢ pentesting. 😌 <br>
 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb#-%E1%B4%84%E1%B4%8F%C9%B4%C9%B4%E1%B4%87%E1%B4%84%E1%B4%9B-%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C-%E1%B4%8D%E1%B4%87">ʜᴇʀᴇ</a> 😬 <br>
 </p>
  
