@@ -1,7 +1,7 @@
 
 <!---INTRODUCTION--->
 
-<h1 align="center"> Hi, I'm Aswin Krishna P.B</h1> 
+<p align="center"><h1 align="center"> Hi, I'm Aswin Krishna P.B</h1> </p>
 ## <strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|<strike>🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ</strike>
 
 <h3 align="center">ɪ'ᴍ ᴀ ᴩᴀꜱꜱɪᴏɴᴀᴛᴇ ᴄyʙᴇʀꜱᴇᴄᴜʀɪᴛy ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜰʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳</h3>
