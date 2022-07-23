@@ -21,7 +21,7 @@
 <table style="width:100%" border-style:hidden >
   <tr>
     <td>🔐ʜᴀᴄᴋɪɴɢ</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="40px" />		</td>
+    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="30px" />		</td>
     <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/nmap.svg" alt="Nmap" width="40px" />				</td>
     <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/metasploit.svg" alt="Metasploit" width="40px" />	</td>
     <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/burp.svg" alt="Burp Suit" width="40px" />		</td>
