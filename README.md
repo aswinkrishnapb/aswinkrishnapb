@@ -22,7 +22,7 @@
  
 ## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
 
-<table style="width:100%">
+<table style="width:100%" border-style:hidden >
   <tr>
     <td>🔐ʜᴀᴄᴋɪɴɢ</td>
     <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="40px" />		</td>
