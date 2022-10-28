@@ -16,7 +16,7 @@
 💬 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb#-%E1%B4%84%E1%B4%8F%C9%B4%C9%B4%E1%B4%87%E1%B4%84%E1%B4%9B-%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C-%E1%B4%8D%E1%B4%87">ʜᴇʀᴇ</a> 😬 <br>
 </p>
  
-## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
+<!---## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ--->
 
 
 <!---GITHUB STATUS--->
