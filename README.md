@@ -18,27 +18,6 @@
  
 ## ⚔️ ᴛᴏᴏʟꜱ | ᴛᴇᴄʜɴᴏʟᴏɢy | ꜱᴏꜰᴛᴡᴀʀᴇ
 
-<table style="width:100%" border-style:hidden >
-  <tr>
-    <td>🔐ʜᴀᴄᴋɪɴɢ</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/recon-ng.svg" alt="Recon-ng" width="30px" />	   	</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/nmap.svg" alt="Nmap" width="30px" />         				</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/metasploit.svg" alt="Metasploit" width="30px" />	</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/burp.svg" alt="Burp Suit" width="30px" />		      </td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/zaproxy.svg" alt="OWASP ZAP" width="30px" />   		</td>
-  </tr>
-  <tr>
-    <td>📝ᴄᴏᴅɪɴɢ :</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/python.svg" alt="Python" width="30px" />		         	</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/php.svg" alt="PHP" width="30px" />			             		</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/shellscript.svg" alt="shellscript" width="30px" />	 </td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/javascript.svg" alt="javascript" width="30px" />	  	</td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/c.svg" alt="C" width="30px" />						                </td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cpp.svg" alt="C++" width="30px" />					             </td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/html.svg" alt="html" width="30px" />					           </td>
-    <td><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/css.svg" alt="CSS" width="30px" />				             	</td>
-  </tr>
-</table>
 
 <!---GITHUB STATUS--->
 
