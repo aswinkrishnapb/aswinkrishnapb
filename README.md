@@ -48,10 +48,8 @@
 
 <!---GITHUB'S VIEWS AND FOLLOWERS--->
 
-## 👁️‍🗨️ ᴠɪᴇᴡꜱ
+## 👁️‍🗨️ ᴠɪᴇᴡꜱ & 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ
 <a href="https://github.com/aswinkrishnapb"><img src="https://komarev.com/ghpvc/?username=aswinkrishnapb"></a>
-
-## 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ
 <a href="https://github.com/aswinkrishnapb?tab=followers"><img src="https://img.shields.io/github/followers/aswinkrishnapb?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---END--->
