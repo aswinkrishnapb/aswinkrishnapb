@@ -21,7 +21,7 @@
 
 <!---GITHUB STATUS--->
 
-## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ 
+<h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ</h2>
 <p align="center">
 <a href="https://github.com/aswinkrishnapb/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
 <a href="https://github.com/aswinkrishnapb/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb&bg_color=000000&color=00ffff&line=00ffff&point=00FF00&hide_border=true" /></a>
@@ -33,13 +33,14 @@
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/issues"><img src="https://img.shields.io/github/issues/aswinkrishnapb/aswinkrishnapb" alt="Issues Badge"/></a>
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aswinkrishnapb/aswinkrishnapb?color=2b9348"></a>
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/master/LICENSE"><img src="https://img.shields.io/github/license/aswinkrishnapb/aswinkrishnapb?color=2b9348" alt="License Badge"/></a> 
+<br>
+<b>NOTE:ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!</b>
 </p>
-<b>NOTE:</b> ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!
 
 <!---SOCIAL MEDIA--->
 
-## 🫂 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
-<p align="left">
+<h2 align="center">🫂 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/aswinkrishnapb4u"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/linkedin.svg" width="30px" /></a>
 <a href="https://twitter.com/aswinkrishnapb?s=09"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/twitter.svg" width="30px" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aswinkrishnapb@gmail.com"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/gmail.svg" width="40px" /></a>
@@ -48,8 +49,10 @@
 
 <!---GITHUB'S VIEWS AND FOLLOWERS--->
 
-## 👁️‍🗨️ ᴠɪᴇᴡꜱ & 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ
+<h2 align="center">👁️‍🗨️ ᴠɪᴇᴡꜱ & 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ</h2>
+<p align="center">
 <a href="https://github.com/aswinkrishnapb"><img src="https://komarev.com/ghpvc/?username=aswinkrishnapb"></a>
 <a href="https://github.com/aswinkrishnapb?tab=followers"><img src="https://img.shields.io/github/followers/aswinkrishnapb?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 <!---END--->
