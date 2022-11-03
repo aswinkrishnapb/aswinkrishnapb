@@ -33,6 +33,7 @@
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/issues"><img src="https://img.shields.io/github/issues/aswinkrishnapb/aswinkrishnapb" alt="Issues Badge"/></a>
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aswinkrishnapb/aswinkrishnapb?color=2b9348"></a>
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/master/LICENSE"><img src="https://img.shields.io/github/license/aswinkrishnapb/aswinkrishnapb?color=2b9348" alt="License Badge"/></a> 
+<a href="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aswinkrishnapb&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)"></a>
 <br>
 <b>NOTE:ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!</b>
 </p>
