@@ -23,8 +23,6 @@
 
 <h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ</h2>
 <p align="center">
-<a href="#"><img alt="Aswin's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinkrishnapb&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D" /></a>
- 
 <a href="https://github.com/aswinkrishnapb/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
 <a href="https://github.com/aswinkrishnapb/github-readme-activity-graph"><img alt="Aswin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aswinkrishnapb&bg_color=000000&color=00ffff&line=00ffff&point=00FF00&hide_border=true" /></a>
 </p>
