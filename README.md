@@ -34,6 +34,22 @@
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aswinkrishnapb/aswinkrishnapb?color=2b9348"></a>
 <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/master/LICENSE"><img src="https://img.shields.io/github/license/aswinkrishnapb/aswinkrishnapb?color=2b9348" alt="License Badge"/></a> 
 <a href="https://github-readme-streak-stats.herokuapp.com?user=aswinkrishnapb&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>
+ 
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Github" href="https://github.com/aswinkrishnapb/aswinkrishnapb">
+<i class="fab fa-github"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Linkedin" href="https://linkedin.com/in/aswinkrishnapb">
+<i class="fab fa-linkedin"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/aswinkrishnapb">
+<i class="fab fa-twitter"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Telegram" href="https://t.me/MR00100X">
+<i class="fab fa-dribbble"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="RSS" href="/">
+<i class="fas fa-rss"></i>
+</a>
 <br>
 <b>NOTE:ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!</b>
 </p>
