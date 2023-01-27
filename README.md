@@ -47,6 +47,24 @@
 <a href="https://t.me/mr00100x"><img src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/telegram.svg" width="30px" /></a>
 </p>
 
+<div>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Github" href="https://github.com/aswinkrishnapb/aswinkrishnapb">
+<i class="fab fa-github"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Linkedin" href="https://linkedin.com/in/aswinkrishnapb">
+<i class="fab fa-linkedin"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Twitter" href="https://twitter.com/aswinkrishnapb">
+<i class="fab fa-twitter"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="Telegram" href="https://t.me/MR00100X">
+<i class="fab fa-dribbble"></i>
+</a>
+<a class="level-item button is-transparent is-marginless" target="_blank" rel="noopener" title="RSS" href="/">
+<i class="fas fa-rss"></i>
+</a>
+</div>
+
 <!---GITHUB'S VIEWS AND FOLLOWERS--->
 
 <h2 align="center">👁️‍🗨️ ᴠɪᴇᴡꜱ & 👣 ꜰᴏʟʟᴏᴡᴇʀꜱ</h2>
