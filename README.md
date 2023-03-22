@@ -2,11 +2,10 @@
 
 <p align="center"><h1 align="center"> Hi, I'm Aswin Krishna P.B</h1> </p>
 <h3 align="center">ɪ'ᴍ ᴀ ᴩᴀꜱꜱɪᴏɴᴀᴛᴇ ᴄyʙᴇʀꜱᴇᴄᴜʀɪᴛy ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜰʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳</h3>
-<h2 align="center"><strike>🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|</strike> 🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|<strike>🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ</strike></h2>
+<h2 align="center">🔏ᴩᴇɴᴛᴇꜱᴛᴇʀ|🐞ʙᴜɢ ʜᴜɴᴛᴇʀ|🔍ꜱᴇᴄᴜʀɪᴛy ʀᴇꜱᴇᴀʀᴄʜᴇʀ|🎮ᴄᴛꜰ ᴩʟᴀyᴇʀ|💻ᴄᴏᴅᴇʀ</h2>
 
 <!---
 <a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/cover.jpg" height="175px"/></a>
-<a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/technovalley.jpeg" height="175px"/></a>
 --->
 
 <p align="center">
@@ -23,6 +22,7 @@
 
 <h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ</h2>
 <p align="center">
+<a href=#><img src="contributions.svg"></a>
 <a href="https://github.com/aswinkrishnapb/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
 </p>
 <p align="center">
