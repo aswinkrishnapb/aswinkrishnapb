@@ -22,19 +22,17 @@
 
 <h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛᴜꜱ</h2>
 <p align="center">
-<a href=#><img src="contributions.svg"></a>
-<a href="https://github.com/aswinkrishnapb/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/aswinkrishnapb/aswinkrishnapb/stargazers"><img src="https://img.shields.io/github/stars/aswinkrishnapb/aswinkrishnapb" alt="Stars Badge"/></a>
-<a href="https://github.com/aswinkrishnapb/aswinkrishnapb/network/members"><img src="https://img.shields.io/github/forks/aswinkrishnapb/aswinkrishnapb" alt="Forks Badge"/></a>
-<a href="https://github.com/aswinkrishnapb/aswinkrishnapb/pulls"><img src="https://img.shields.io/github/issues-pr/aswinkrishnapb/aswinkrishnapb" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/aswinkrishnapb/aswinkrishnapb/issues"><img src="https://img.shields.io/github/issues/aswinkrishnapb/aswinkrishnapb" alt="Issues Badge"/></a>
-<a href="https://github.com/aswinkrishnapb/aswinkrishnapb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aswinkrishnapb/aswinkrishnapb?color=2b9348"></a>
-<a href="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/master/LICENSE"><img src="https://img.shields.io/github/license/aswinkrishnapb/aswinkrishnapb?color=2b9348" alt="License Badge"/></a> 
-<a href="https://github-readme-streak-stats.herokuapp.com?user=aswinkrishnapb&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>
-<br>
-<b>NOTE:ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴄʀᴇᴀᴛᴇᴅ ꜰᴏʀ ᴀ ꜰᴜɴ…!</b>
+ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/stargazers"><img src="https://img.shields.io/github/stars/aswinkrishnapb/aswinkrishnapb" alt="Stars Badge"/></a>
+ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/network/members"><img src="https://img.shields.io/github/forks/aswinkrishnapb/aswinkrishnapb" alt="Forks Badge"/></a>
+ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/pulls"><img src="https://img.shields.io/github/issues-pr/aswinkrishnapb/aswinkrishnapb" alt="Pull Requests Badge"/></a>
+ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/issues"><img src="https://img.shields.io/github/issues/aswinkrishnapb/aswinkrishnapb" alt="Issues Badge"/></a>
+ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aswinkrishnapb/aswinkrishnapb?color=2b9348"></a>
+ <a href="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/master/LICENSE"><img src="https://img.shields.io/github/license/aswinkrishnapb/aswinkrishnapb?color=2b9348" alt="License Badge"/></a> 
+ <a href="https://github-readme-streak-stats.herokuapp.com?user=aswinkrishnapb&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>
+ <br>
+ <b>NOTE:THIS IS JUST CREATED FOR A FUN…!</b>
+ <a href=#><img src="contributions.svg"></a>
+ <a href="https://github.com/aswinkrishnapb/github-readme-stats"><img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aswinkrishnapb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
 </p>
 
 <!---SOCIAL MEDIA--->
